@@ -1,0 +1,54 @@
+@charset "utf-8";
+
+body {
+    background-image: url(/img/rectangle_large_type_2_50b890ee0e094f28bbbbacd9a7b5169a.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    background-attachment: fixed;
+}
+
+.mask {
+    height: 110%;
+    background: rgba(255, 255, 255, 0.8);
+}
+
+.member_all {
+    width: 80%;
+    margin-top: 30px;
+    margin-left: 15vw;
+}
+
+.flex {
+    display: flex;
+}
+
+.membername {
+    padding: 10px;
+    padding-top: 25px;
+    border: 1px solid;
+}
+
+.memberbirth {
+    padding: 10px;
+    border: 1px solid;
+}
+
+.memberinfo {
+    padding: 10px;
+    border: 1px solid;
+}
+
+.return {
+    width: 55px;
+    margin-top: 20px;
+    margin-left: 35vw;
+    border: 1px solid;
+    padding: 10px;
+    background-color: lightgray;
+    border-radius: 10px;
+}
+
+.dummy {
+    height: 30px;
+}

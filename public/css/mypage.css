@@ -1,0 +1,36 @@
+@charset "utf-8";
+
+.title {
+    padding-top: 15vh;
+    padding-left: 30vw;
+    color: slateblue;
+}
+
+.mypage_all {
+    width: 60%;
+    background-color: lightgray;
+    margin-left: 21vw;
+    margin-top: 30px;
+}
+
+.tourokuname {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid 1px;
+    height: 10vh;
+}
+
+.return {
+    width: 120px;
+    margin-top: 30px;
+    margin-left: 46.5vw;
+    border: 1px solid;
+    padding: 10px;
+    background-color: lightgray;
+    border-radius: 10px;
+}
+
+.dummy {
+    height: 10vh;
+}
